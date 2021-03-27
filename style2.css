@@ -1,0 +1,58 @@
+.head {
+  width: 900px;
+  height: 50px;
+  background-color: blue;
+  margin: 0 auto;
+}
+.anker {
+  color: white;
+  font-size: 20px;
+}
+.blog {
+  color: green;
+  margin: 20px;
+  font-size: 20px;
+}
+.center {
+  text-align: center;
+  padding: 13px;
+}
+.btn {
+  background-color: green;
+  color: white;
+  border: 1px solid green;
+  width: 100px;
+  height: 30px;
+  border-radius: 30px;
+}
+.content2 {
+  width: 500px;
+  box-sizing: border-box;
+  vertical-align: top;
+  padding: 10px;
+  margin-left: 20px;
+  /* display: inline-block; */
+}
+.div1 {
+  display: inline-block;
+}
+.atag {
+  color: green;
+}
+.section-first {
+  width: 100%;
+  margin-left: 300px;
+}
+.content1 {
+  width: 500px;
+  box-sizing: border-box;
+  vertical-align: top;
+  padding: 10px;
+  margin-left: 20px;
+  display: inline-block;
+}
+.article1 {
+  width: 500px;
+  height: 300px;
+  padding: 10px;
+}

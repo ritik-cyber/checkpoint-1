@@ -1,0 +1,88 @@
+.head {
+  width: 900px;
+  height: 50px;
+  background-color: blue;
+  margin: 0 auto;
+}
+.anker {
+  color: green;
+  font-size: 20px;
+}
+.blog {
+  color: white;
+  margin: 20px;
+  font-size: 20px;
+}
+.center {
+  text-align: center;
+  padding: 13px;
+}
+.text {
+  text-align: center;
+  text-transform: capitalize;
+}
+p {
+  text-align: center;
+  font-size: 25px;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #99d8ca;
+  margin: 50px auto;
+  border: 20px solid #5873e2;
+  outline: 10px solid black;
+  box-shadow: 0 0 0 30px #90ffa9;
+}
+.circle {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #99d8ca;
+  display: inline-block;
+  vertical-align: middle;
+}
+.marker-circle {
+  text-align: center;
+  margin: 0 16px;
+}
+.padding {
+  background-color: black;
+}
+.margin {
+  background-color: #90ffa9;
+}
+.border {
+  background-color: #5873e2;
+}
+.marker-container {
+  display: inline-block;
+  margin: 0 16px;
+}
+hr {
+  border: 1px dashed grey;
+  width: 700px;
+  margin: 32px auto;
+}
+.big {
+  width: 660px;
+  border: 2px solid;
+  margin: 0 auto;
+  font-size: 0;
+}
+.small {
+  width: 200px;
+  height: 180px;
+  margin: 10px;
+  background-color: grey;
+  display: inline-block;
+}
+.cont {
+  width: 200px;
+  height: 180px;
+  margin: 10px;
+  background-color: grey;
+  display: inline-block;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
